@@ -4,7 +4,7 @@
 
 This system is designed to detect and monitor students entering or exiting the campus without proper authorization, using a real-time camera setup at the college gate. It cross-verifies individuals against a secure student dataset. If an unauthorized student is detected, the system immediately generates an alert sent to the HOD dashboard on the website. Authorized students can be managed through a Faculty Dashboard where faculty can update student status to prevent false alerts.
 
-**Technologies Used**
+**Tools Used**
 
 **Python** for core development and automation
 
